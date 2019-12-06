@@ -1,10 +1,10 @@
-package com.ld.repo;
+package com.ld.coursemanage;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RepoBaseApplicationTests {
+class CourseManageApplicationTests {
 
     @Test
     void contextLoads() {
